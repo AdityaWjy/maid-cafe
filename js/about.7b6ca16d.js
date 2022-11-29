@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_ecommerce"]=self["webpackChunkvue_ecommerce"]||[]).push([[443],{5399:function(e,u,n){n.r(u),n.d(u,{default:function(){return l}});var t=function(){var e=this;e._self._c;return e._m(0)},s=[function(){var e=this,u=e._self._c;return u("div",{staticClass:"about"},[u("h1",[e._v("This is an about page")])])}],c=n(1001),r={},a=(0,c.Z)(r,t,s,!1,null,null,null),l=a.exports}}]);
+//# sourceMappingURL=about.7b6ca16d.js.map
